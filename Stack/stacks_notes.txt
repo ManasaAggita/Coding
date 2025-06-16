@@ -1,0 +1,16 @@
+Q) when do you use stacks or queses?
+-> when you want to store answer so far and put some results behind you to use those later on
+-> group of elements inside data structure,
+-> binary tree traversal
+-> tees bfs, dfs
+-> recursion to iteration programs
+--------------------------------------------------------------------------------------------------
+Q) what is dequeue?
+-> insert and delete both from front and back
+-----------------------------------------------------------------
+-> quee and dequeue are interfaces
+------------------------------------------------------------------
+Q) arrayDeque
+-> no capapcity restrictions
+-> faster than LL, stacks
+--> cannot store null elements
